@@ -11,6 +11,7 @@ This code is very basic and is in a very poor state and not something we can rel
 - What is missing?
 - What should be cleaned up?  
 
+We will be supporting this for a long time so we need to ensure that the code is in a state that this can be acheived.
 ## Requirements
 
 - This test needs .net core 3.1+ to run which you can download from [here](https://dotnet.microsoft.com/download).
